@@ -1,3 +1,4 @@
+
 # NOTE: This is a simplified version of the actual project.
 # Full logic available on request.
 
@@ -20,3 +21,4 @@ This project is shared portfolio purposes only
 - All sensitive or personal data has been removed or replaced with sample entries.
 - For further collaboration or questions, feel free to reach out.
 - This repository includes a stripped-down version of the original project for portfolio purposes.  
+
