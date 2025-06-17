@@ -1,0 +1,8 @@
+columns:
+- expense_type
+- seconds
+- minutes
+- hour
+- month
+- day
+- costs

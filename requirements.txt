@@ -1,0 +1,17 @@
+python-dotenv  #This is sspecifically used to call enviroment variables
+pandas
+numpy
+pymongo
+certifi #A python certificate that provides a set of root cetfificates, commonly used by python libraties that needs to make a secure HTTP connection.
+pymongo[srv]
+scikit-learn
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
+openpyxl
+dnspython
+
+#-e .
